@@ -3,7 +3,11 @@
  
   1. OVERVIEW : 
 
-   -  This is a simple Node.js project that provides API endpoints for creating and retrieving text files in a specific folder. The text files contain the current timestamp, and the filenames are based on the current date and time. The project uses Express.js to handle the API routes and the native Node.js fs (file system) module for file operations.
+   -    This is a simple Node.js project that provides API endpoints for creating and retrieving text files in a specific folder.
+ 
+   -    The text files contain the current timestamp, and the filenames are based on the current date and time.
+ 
+   -    The project uses Express.js to handle the API routes and the native Node.js fs (file system) module for file operations.
 
  
   2. FEATURES :
@@ -96,9 +100,9 @@
 
   -  /node-file-system-api
      │
-     ├/files # Directory where all .txt files will be stored
-     ├ index.js # Main application file
-     └ README.md # This file
+     ├/files # Directory where all .txt files will be stored            
+     ├ index.js # Main application file            
+     └ README.md # This file            
 
   -  Code Style and Best Practices
 
