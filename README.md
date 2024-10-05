@@ -107,27 +107,27 @@
 
 8. FOLDER STRUCTURE :
 
-  -  /node-file-system-api            
+ -  /node-file-system-api            
 
-      │          
+    │          
 
-     ├/files # Directory where all .txt files will be stored            
+    ├/files # Directory where all .txt files will be stored            
 
-     ├ index.js # Main application file               
+    ├ index.js # Main application file               
 
-     └ README.md # This file            
+    └ README.md # This file            
 
-       -  Code Style and Best Practices
+      -  Code Style and Best Practices
 
-       -  Variables and functions are named with clarity for maintainability.
+      -  Variables and functions are named with clarity for maintainability.
 
-       -  The code includes comments for better readability.
+      -  The code includes comments for better readability.
  
-       -  Proper error handling is implemented for both API endpoints.
+      -   Proper error handling is implemented for both API endpoints.
 
 
 8. LICENSE :
 
-    -   This project is open-source and available under the MIT License.
+      -   This project is open-source and available under the MIT License.
 
     
