@@ -41,13 +41,17 @@
       i) 201 Created on success :
 
        {
+
         "message": "File 'YYYY-MM-DDTHH-MM-SS.txt' created successfully"
+
        }
 
       ii) 500 Internal Server Error on failure :
 
        {
+
         "message": "Error creating file"
+
        }
 
 
@@ -64,18 +68,23 @@
       i) 200 OK on success :
 
         [
+
          "2024-10-05T12-30-45.txt",
+
          "2024-10-05T13-45-32.txt"
+
         ]
 
      ii) 500 Internal Server Error on failure :
 
         {
+
          "message": "Error retrieving files"
+
         }
 
 
-4. SETUP INSTRUCTIONS :
+5. SETUP INSTRUCTIONS :
 
     Prerequisites :
 
@@ -84,24 +93,28 @@
       -  npm (Node Package Manager)
 
 
-5. RUN THE SERVER :
+6. RUN THE SERVER :
 
       -  node index.js
 
        The server will start on http://localhost:3000.
 
 
-6. TESTING THE API :
+7. TESTING THE API :
 
       -  Use a tool like Postman to test the API endpoints.
 
 
-7. FOLDER STRUCTURE :
+8. FOLDER STRUCTURE :
 
   -  /node-file-system-api            
-     │          
+
+      │          
+
      ├/files # Directory where all .txt files will be stored            
+
      ├ index.js # Main application file               
+
      └ README.md # This file            
 
   -  Code Style and Best Practices
