@@ -117,17 +117,17 @@
 
      └ README.md # This file            
 
-  -  Code Style and Best Practices
+       -  Code Style and Best Practices
 
-  -  Variables and functions are named with clarity for maintainability.
+       -  Variables and functions are named with clarity for maintainability.
 
-  -  The code includes comments for better readability.
-
-  -  Proper error handling is implemented for both API endpoints.
+       -  The code includes comments for better readability.
+ 
+       -  Proper error handling is implemented for both API endpoints.
 
 
 8. LICENSE :
 
-  -  This project is open-source and available under the MIT License.
+    -   This project is open-source and available under the MIT License.
 
     
